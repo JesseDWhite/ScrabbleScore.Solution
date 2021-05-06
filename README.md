@@ -31,3 +31,25 @@ _{This is a detailed description of your application. Give as much detail as nee
 _MIT © Jesse White 2021_
 ## Contact Information 🤳
 Jesse White _jesse.white6@gmail.com_
+
+<!-- 
+1) Test for constructor functionality 
+2) Test for value being assigned to contructor for whatever the user inputs. ie input a word and then we will go through that word and compare each letter to the previously created LetterObject tha contains all key value pairs.
+3) Test GetAll() this will allow us to loop through the user's input and compare each letter.
+4) Test that we are able to compare the value of the GetAll() method to the LetterObject and see if they are comparable.
+5) Test if GetAll() method finds a match within the LetterObject, return that letter + the LetterObject value of that match.
+Object LetterValues{
+A: 1
+B: 3
+C: 
+}
+
+
+
+
+
+
+
+
+-->
+
